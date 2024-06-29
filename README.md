@@ -1,6 +1,7 @@
 # Linux - Maitrisez l'administration du système
 
-Ce document est un résumé de ma lecture du livre ___Linux - Maitrisez l'administration du système___ de **Philippe BANQUET** et **Sébastien ROHAUT**.  
+Ce document est un résumé de ma lecture du livre ___Linux - Maitrisez l'administration du système___ de **Philippe BANQUET** et **Sébastien ROHAUT**.
+
 Pour plus d'informations, consultez la page du livre chez 
 [Editions ENI]([https://www.editions-eni.fr/livre/linux-principes-de-base-de-l-utilisation-du-systeme-8e-edition-9782409037764](https://www.editions-eni.fr/livre/linux-maitrisez-l-administration-du-systeme-7e-edition-9782409043666)
 
